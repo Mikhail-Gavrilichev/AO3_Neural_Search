@@ -1,1 +1,2 @@
 backend/data/best_model.pt filter=lfs diff=lfs merge=lfs -text
+backend/data/dataset.json filter=lfs diff=lfs merge=lfs -text
